@@ -1,7 +1,7 @@
 # 📡 TelecomX — Inteligência Preditiva de Churn (Parte 2)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WBruni/analise-churn-telecom-x_parte_2/blob/main/notebooks/TelecomX_BR_Parte_2.ipynb)
-[![Link do NBViewer](https://img.shields.io/badge/render-nbviewer-orange?style=flat&logo=jupyter)](https://nbviewer.org/github/WBruni/analise-churn-telecom-x_parte_2/blob/main/notebooks/TelecomX_BR_Parte_2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WBruni/analise-churn-telecom-x_parte_2/blob/main/TelecomX_BR_Parte_2.ipynb)
+[![Link do NBViewer](https://img.shields.io/badge/render-nbviewer-orange?style=flat&logo=jupyter)](https://nbviewer.org/github/WBruni/analise-churn-telecom-x_parte_2/blob/main/TelecomX_BR_Parte_2.ipynb)
 
 > **Nota para execução no Colab:** Para que as funções customizadas funcionem, é necessário fazer o upload do arquivo `telecom_x_analytics.py` para a sessão do Google Colab (ícone de pasta na lateral esquerda) antes de rodar as células de importação.
 
